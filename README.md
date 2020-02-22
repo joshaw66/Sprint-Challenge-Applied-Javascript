@@ -30,19 +30,29 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+Document Object Model. It helps the programming languages connect to the page by representing the document as nodes and objects.
+
 2. What is an event?
+
+An event allows JavaScript to make all of the handlers function within the HTML document.
 
 3. What is an event listener?
 
+An event listener will wait for something the user to initiate an aciton, and in turn, triggers an event or action.
+
 4. Why would we convert a NodeList into an Array?
 
+Arrays have more functionality within JavaScript, and it is very simple to convert them.
+
 5. What is a component?
+
+A component is a reusable set of data within JavaScript(or other languages). It implements behaviors and interface elements to JavaScript.
 
 ### Git Set up
 
 * [x] Fork the project into your GitHub user account
 * [x] Clone the forked project into a directory on your machine
-* [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+* [x] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
 * [x] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
@@ -55,7 +65,7 @@ Your finished project must include all of the following requirements:
 
 * [x] Following the instructions in the `Tabs/index.js` file, create individual Tabs components.
 
-* [ ] Following the instructions in the `Cards/index.js` file, create individual Cards components.
+* [x] Following the instructions in the `Cards/index.js` file, create individual Cards components.
 
 ## Stretch Problems
 
